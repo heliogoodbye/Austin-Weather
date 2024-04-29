@@ -1,0 +1,17 @@
+/* weather-conditions-style.css */
+
+.weather-conditions {
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.weather-conditions p {
+    margin: 0;
+    padding: 5px 0;
+}
+
+.weather-conditions p strong {
+    font-weight: bold;
+}
